@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.exe.config
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.exe
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.pdb
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.exe
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.pdb
+C:\Users\asus\source\repos\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.exe.config
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.exe
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\bin\Debug\RobotSavaşOyunu.pdb
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.exe
+C:\Users\asus\Desktop\RobotSavaşOyunu\RobotSavaşOyunu\obj\Debug\RobotSavaşOyunu.pdb
